@@ -737,11 +737,11 @@ Isso é necessário para o aplicativo funcionar corretamente</translation>
     <message>
         <location filename="../src/main.cpp" line="195"/>
         <source>Please don&apos;t run that application as root user!</source>
-        <translation>Por favor, não tente </translation>
+        <translation>Por favor, não tente executar essa aplicação como usuário com privilégios root!</translation>
     </message>
     <message>
         <source>Please run that application as root user!</source>
-        <translation type="vanished">Bitte führen Sie diese Anwendung als root-Benutzer aus!</translation>
+        <translation>Por favor, execute essa aplicação como usuário com privilégios root!</translation>
     </message>
     <message>
         <location filename="../src/main.cpp" line="203"/>
